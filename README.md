@@ -11,7 +11,7 @@ Search movies, series, games. so that you can find out more information about
 - [redux-thunk](https://github.com/gaearon/redux-thunk) to dispatch asynchronous actions.
 
 ## Usage
-You can start by cloning this repository and using (https://github.com/davirmrm/smovie-web.git) .
+You can start by cloning this repository and using (`git clone https://github.com/davirmrm/smovie-mobile.git`) .
 
 After that you should proceed as in any javascript project:
 
