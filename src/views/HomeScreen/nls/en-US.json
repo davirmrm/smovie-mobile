@@ -1,0 +1,20 @@
+{
+    "search": "Search",
+    "searchPlaceholder": "Enter the title",
+
+    "Director": "Director",
+    "Genre": "Genre",
+    "Actors": "Actors",
+    "Ratings": "Ratings",
+
+    "seeMore": "See more +",
+
+    "infoSearch": "{{search}} - {{totalElements}} registers",
+    "infoSeeTotal": "See {{numberSee}} of {{totalElements}} registers",
+
+    "mensage": {
+      "required": "Required",
+      "searchNone": "Write a title so you can search!"
+    }
+  }
+  
