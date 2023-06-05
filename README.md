@@ -1,4 +1,4 @@
-# React Native Project Structure
+# React Native Project SMOVIE
 
 Search movies, series, games. so that you can find out more information about
 
@@ -19,7 +19,7 @@ After that you should proceed as in any javascript project:
 - If you are using Xcode 12.5 or higher, go to /ios and run `pod install --`repo-update`
 - Run `npm run ios` or `npm run android` to launch your app!
 
-- npx react-native run-android
+- `npx react-native run-android`
 
 (Using yarn: `yarn ios` or `yarn android`)
 
